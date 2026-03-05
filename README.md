@@ -4,7 +4,7 @@ First, bring the project to your local machine:
 
 Bash
 # Clone the repository
-git clone https://github.com/RAYLEZXC/happybirthday
+git clone [https://github.com/RAYLEZXC/happybirthday](https://github.com/RAYLEZXC2003/happybirthday)
 
 # Enter the project directory
 cd happybirthday
